@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RemoteControl</string>
+    <string name="map_bottom_speed">N/A</string>
+    <string name="device_not_connect">设备未连接</string>
+    <string name="device_already_connect">设备已连接</string>
+    <string name="device_fail_connect">设备连接失败</string>
+</resources>

@@ -1,0 +1,77 @@
+<resources>
+    <dimen name="one_px">1px</dimen>
+    <dimen name="three_px">1px</dimen>
+
+
+    <dimen name="margin_0db">0dp</dimen>
+    <dimen name="magin_0.5db">0.5dp</dimen>
+    <dimen name="margin_1db">1dp</dimen>
+    <dimen name="margin_2db">2dp</dimen>
+    <dimen name="margin_3db">3dp</dimen>
+    <dimen name="margin_4db">4dp</dimen>
+    <dimen name="margin_5db">5dp</dimen>
+    <dimen name="margin_6db">6dp</dimen>
+    <dimen name="margin_8db">8dp</dimen>
+    <dimen name="margin_10db">10dp</dimen>
+    <dimen name="margin_11db">11dp</dimen>
+    <dimen name="margin_12db">12dp</dimen>
+    <dimen name="margin_14db">14dp</dimen>
+    <dimen name="margin_15db">15dp</dimen>
+    <dimen name="margin_16db">16dp</dimen>
+    <dimen name="margin_18db">18dp</dimen>
+    <dimen name="margin_20db">20dp</dimen>
+    <dimen name="margin_24db">24dp</dimen>
+    <dimen name="margin_25db">25dp</dimen>
+    <dimen name="margin_30db">30dp</dimen>
+    <dimen name="margin_35db">35dp</dimen>
+    <dimen name="margin_38db">38dp</dimen>
+    <dimen name="margin_40db">40dp</dimen>
+    <dimen name="margin_42db">42dp</dimen>
+    <dimen name="margin_44db">44dp</dimen>
+    <dimen name="margin_45db">45dp</dimen>
+    <dimen name="margin_50db">50dp</dimen>
+    <dimen name="margin_56db">56dp</dimen>
+    <dimen name="margin_60db">60dp</dimen>
+    <dimen name="margin_70db">70dp</dimen>
+    <dimen name="margin_72db">72dp</dimen>
+    <dimen name="margin_80db">80dp</dimen>
+    <dimen name="margin_85db">85dp</dimen>
+    <dimen name="margin_90db">90dp</dimen>
+    <dimen name="margin_100db">100dp</dimen>
+    <dimen name="margin_110db">110dp</dimen>
+    <dimen name="margin_120db">120dp</dimen>
+    <dimen name="margin_130db">130dp</dimen>
+    <dimen name="margin_140db">140dp</dimen>
+    <dimen name="margin_150dp">150dp</dimen>
+    <dimen name="margin_200db">200dp</dimen>
+    <dimen name="margin_220db">220dp</dimen>
+    <dimen name="margin_230db">230dp</dimen>
+    <dimen name="margin_250db">250dp</dimen>
+    <dimen name="margin_270db">270dp</dimen>
+
+    <integer name="top_right_action_view">428</integer>
+    <integer name="top_left_action_view">427</integer>
+    <integer name="top_left_image_view">2015</integer>
+    <integer name="top_right_image_view">1996</integer>
+    <integer name="top_center_image_view">2015</integer>
+
+
+    <dimen name="text_size_30sp">30sp</dimen>
+    <dimen name="text_size_24sp">24sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="text_size_14sp">14sp</dimen>
+    <dimen name="text_size_13sp">13sp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="text_size_11sp">11sp</dimen>
+    <dimen name="text_size_10sp">10sp</dimen>
+    <dimen name="text_size_8sp">8sp</dimen>
+    <dimen name="twelve_sp">12sp</dimen>
+    <dimen name="six_sp">6sp</dimen>
+    <dimen name="text_size_5sp">5sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

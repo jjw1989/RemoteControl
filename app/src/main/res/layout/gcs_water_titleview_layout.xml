@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+   
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+       >
+        <TextView
+            android:id="@+id/water_powerray_bt_text"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="24dp"
+            android:drawableLeft="@mipmap/powerray_bt_lv4"
+            android:text="@string/map_bottom_speed"
+            android:textSize="@dimen/text_size_12sp"
+            android:gravity="center_vertical"
+            android:textColor="@color/color_white"/>
+
+        <TextView
+            android:id="@+id/water_base_bt_text"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="24dp"
+            android:textSize="@dimen/text_size_12sp"
+            android:textColor="@color/color_white"
+            android:drawableLeft="@mipmap/water_base_battery4"
+            android:text="@string/map_bottom_speed"
+            android:gravity="center_vertical"/>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+            <ImageView
+                android:id="@+id/water_signal_view"
+                android:layout_width="32dp"
+                android:layout_height="16dp"
+                android:layout_centerVertical="true"
+                android:src="@mipmap/underwater_signal_1"/>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/connect_text_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:text="@string/device_not_connect"
+            android:textColor="@color/after_sales_gray"
+            android:textSize="@dimen/text_size_12sp"/>
+
+    </LinearLayout>
+</RelativeLayout>
